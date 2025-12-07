@@ -14,6 +14,7 @@
 #include "../../include/constants/file.h"
 #include "../../include/overlay.h"
 #include "../../include/q412.h"
+#include "../../include/constants/generated/learnsets.h"
 
 // declaration needed for below
 BOOL StrongWindsShouldWeaken(struct BattleSystem *bw, struct BattleStruct *sp, int typeTableEntryNo, int defender_type);
@@ -3245,6 +3246,40 @@ BOOL LONG_CALL HasType(struct BattleStruct *ctx, int battlerId, int type) {
          || client->type2 == type
          || client->type3 == type))
          || (client->is_currently_terastallized && client->tera_type == type));
+}
+
+
+BOOL LONG_CALL IsMoveInNaturalLearnSet(struct BattleStruct *ctx, int battlerId, int moveNo)
+{
+    struct BattlePokemon *client = &ctx->battlemon[battlerId];
+    u16 species = client->species;
+    u8 form = client->form_no;
+
+    /* Level-up learnset: stored as u32 entries (level<<16 | move), terminated with LEVEL_UP_LEARNSET_END */
+    u32 levelUpLearnset[MAX_LEVELUP_MOVES];
+    LoadLevelUpLearnset_HandleAlternateForm(species, form, levelUpLearnset);
+
+    for (int i = 0; i < MAX_LEVELUP_MOVES; ++i) {
+        if (levelUpLearnset[i] == LEVEL_UP_LEARNSET_END) {
+            break;
+        }
+        if (LEVEL_UP_LEARNSET_MOVE(levelUpLearnset[i]) == (u16)moveNo) {
+            return TRUE;
+        }
+    }
+
+    /* Egg moves: u16 entries, terminated with 0xFFFF. Use form-adjusted species for offset. */
+    u16 eggMoves[MAX_EGG_MOVES];
+    u16 adjSpecies = PokeOtherFormMonsNoGet(species, form);
+    ArchiveDataLoadOfs(eggMoves, ARC_EGG_MOVES, 0, adjSpecies * MAX_EGG_MOVES * sizeof(u16), MAX_EGG_MOVES * sizeof(u16));
+
+    for (int i = 0; i < MAX_EGG_MOVES && eggMoves[i] != 0xFFFF; ++i) {
+        if (eggMoves[i] == (u16)moveNo) {
+            return TRUE;
+        }
+    }
+
+    return FALSE;
 }
 
 

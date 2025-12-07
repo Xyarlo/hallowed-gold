@@ -360,31 +360,45 @@ void CalcDamageOverall(void *bw, struct BattleStruct *sp) {
 #endif
 
 
-    // 6.6 Same-Type Attack Bonus (STAB) Modifier
+    // 6.6.1 Same-Type Attack Bonus (STAB) Modifier
 
     if (((sp->server_status_flag & SERVER_STATUS_FLAG_TYPE_FLAT) == 0) && HasType(sp, attacker, type)) {
         if (attackerAbility == ABILITY_ADAPTABILITY) {
 #ifdef DEBUG_DAMAGE_ROLLS
         for (int u = 0; u < 16; u++)
         {
-            predamage[u] = QMul_RoundDown(predamage[u], UQ412__2_0);;
+            predamage[u] = QMul_RoundDown(predamage[u], UQ412__1_6);;
         }
 #endif  // DEBUG_DAMAGE_ROLLS
-            damage = QMul_RoundDown(damage, UQ412__2_0);
+            damage = QMul_RoundDown(damage, UQ412__1_6);
         } else {
 #ifdef DEBUG_DAMAGE_ROLLS
         for (int u = 0; u < 16; u++)
         {
-            predamage[u] = QMul_RoundDown(predamage[u], UQ412__1_5);;
+            predamage[u] = QMul_RoundDown(predamage[u], UQ412__1_2);;
         }
 #endif  // DEBUG_DAMAGE_ROLLS
-            damage = QMul_RoundDown(damage, UQ412__1_5);
+            damage = QMul_RoundDown(damage, UQ412__1_2);
         }
     }
 
 #ifdef DEBUG_DAMAGE_CALC
     debug_printf("\n=================\n");
-    debug_printf("[CalcBaseDamage] 6.6 Same-Type Attack Bonus (STAB) Modifier\n");
+    debug_printf("[CalcBaseDamage] 6.6.1 Same-Type Attack Bonus (STAB) Modifier\n");
+    debug_printf("[CalcBaseDamage] damage: %d\n", damage);
+#endif
+
+    // 6.6.2 Natural Learn Set Bonus (NLSB) Modifier
+
+    if (IsMoveInNaturalLearnSet(sp, attacker, moveno)) {
+        damage = QMul_RoundDown(damage, UQ412__1_25);
+    } else {
+        damage = QMul_RoundDown(damage, UQ412__1_0);
+    }
+
+#ifdef DEBUG_DAMAGE_CALC
+    debug_printf("\n=================\n");
+    debug_printf("[CalcBaseDamage] 6.6.2 Natural Learn Set Bonus (NLSB) Modifier\n");
     debug_printf("[CalcBaseDamage] damage: %d\n", damage);
 #endif
 
