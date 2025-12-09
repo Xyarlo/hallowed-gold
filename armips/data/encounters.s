@@ -589,36 +589,36 @@ pokemon SPECIES_NONE
 pokemon SPECIES_NONE
 
 // surf encounters
-encounter SPECIES_POLIWAG, 15, 25
-encounter SPECIES_POLIWAG, 10, 20
-encounter SPECIES_POLIWHIRL, 15, 25
-encounter SPECIES_POLIWHIRL, 15, 25
-encounter SPECIES_POLIWHIRL, 15, 25
+encounter SPECIES_DUCKLETT, 15, 25
+encounter SPECIES_LOTAD, 15, 25
+encounter SPECIES_SWANNA, 20, 25
+encounter SPECIES_LOMBRE, 20, 25
+encounter SPECIES_SQUIRTLE, 27, 27
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // old rod encounters
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_POLIWAG, 10, 10
-encounter SPECIES_POLIWAG, 10, 10
+encounter SPECIES_GOLDEEN, 10, 10
+encounter SPECIES_GOLDEEN, 10, 10
+encounter SPECIES_TIRTOUGA, 10, 10
+encounter SPECIES_TIRTOUGA, 10, 10
+encounter SPECIES_SEAKING, 10, 15
 
 // good rod encounters
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
+encounter SPECIES_GOLDEEN, 20, 20
+encounter SPECIES_TIRTOUGA, 20, 20
+encounter SPECIES_TIRTOUGA, 20, 20
+encounter SPECIES_SEAKING, 20, 25
+encounter SPECIES_SEAKING, 20, 25
 
 // super rod encounters
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_SEAKING, 40, 40
+encounter SPECIES_TIRTOUGA, 40, 40
+encounter SPECIES_TIRTOUGA, 40, 40
+encounter SPECIES_TIRTOUGA, 40, 40
+encounter SPECIES_SQUIRTLE, 47, 47
 
 // swarm grass
 pokemon SPECIES_NONE
