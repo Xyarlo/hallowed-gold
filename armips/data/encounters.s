@@ -439,10 +439,10 @@ pokemon SPECIES_CATERPIE
 pokemon SPECIES_CATERPIE
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_PIDGEY
+pokemon SPECIES_BELLSPROUT
+pokemon SPECIES_BELLSPROUT
+pokemon SPECIES_BELLSPROUT
 pokemon SPECIES_PIDGEOTTO
-pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_BELLSPROUT
 pokemon SPECIES_HOOTHOOT
 pokemon SPECIES_HOOTHOOT
 pokemon SPECIES_CYNDAQUIL
@@ -1056,49 +1056,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5
-
-// morning encounter slots
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
+walklevels 5, 6, 5, 5, 5, 5, 6, 6, 7, 7, 7, 8
+	
+// morning encounter slots	
+monwithform SPECIES_YAMASK, 1	
+monwithform SPECIES_YAMASK, 1	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_HONEDGE	
+pokemon SPECIES_HONEDGE	
 
 // day encounter slots
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
+monwithform SPECIES_YAMASK, 1	
+monwithform SPECIES_YAMASK, 1	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_HONEDGE	
+pokemon SPECIES_HONEDGE	
 
 // night encounter slots
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
+monwithform SPECIES_YAMASK, 1	
+monwithform SPECIES_YAMASK, 1	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_HONEDGE	
+pokemon SPECIES_HONEDGE	
 
 // hoenn encounter slots
 pokemon SPECIES_UNOWN
@@ -1160,49 +1160,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5
+walklevels 5, 6, 5, 5, 5, 5, 6, 6, 7, 7, 7, 8
 
 // morning encounter slots
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
+monwithform SPECIES_YAMASK, 1	
+monwithform SPECIES_YAMASK, 1	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_HONEDGE	
+pokemon SPECIES_HONEDGE	
 
 // day encounter slots
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
+monwithform SPECIES_YAMASK, 1	
+monwithform SPECIES_YAMASK, 1	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_HONEDGE	
+pokemon SPECIES_HONEDGE	
 
 // night encounter slots
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
+monwithform SPECIES_YAMASK, 1	
+monwithform SPECIES_YAMASK, 1	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_HONEDGE	
+pokemon SPECIES_HONEDGE	
 
 // hoenn encounter slots
 pokemon SPECIES_UNOWN
@@ -1264,49 +1264,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5
+walklevels 5, 6, 5, 5, 5, 5, 6, 6, 7, 7, 7, 8
 
 // morning encounter slots
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
+monwithform SPECIES_YAMASK, 1	
+monwithform SPECIES_YAMASK, 1	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_HONEDGE	
+pokemon SPECIES_HONEDGE	
 
 // day encounter slots
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
+monwithform SPECIES_YAMASK, 1	
+monwithform SPECIES_YAMASK, 1	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_HONEDGE	
+pokemon SPECIES_HONEDGE	
 
 // night encounter slots
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
+monwithform SPECIES_YAMASK, 1	
+monwithform SPECIES_YAMASK, 1	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_HONEDGE	
+pokemon SPECIES_HONEDGE	
 
 // hoenn encounter slots
 pokemon SPECIES_UNOWN
@@ -1368,49 +1368,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5
+walklevels 5, 6, 5, 5, 5, 5, 6, 6, 7, 7, 7, 8
 
 // morning encounter slots
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
+monwithform SPECIES_YAMASK, 1	
+monwithform SPECIES_YAMASK, 1	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_HONEDGE	
+pokemon SPECIES_HONEDGE	
 
 // day encounter slots
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
+monwithform SPECIES_YAMASK, 1	
+monwithform SPECIES_YAMASK, 1	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_HONEDGE	
+pokemon SPECIES_HONEDGE	
 
 // night encounter slots
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
-pokemon SPECIES_UNOWN
+monwithform SPECIES_YAMASK, 1	
+monwithform SPECIES_YAMASK, 1	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_UNOWN	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_BALTOY	
+pokemon SPECIES_GOLETT	
+pokemon SPECIES_HONEDGE	
+pokemon SPECIES_HONEDGE	
 
 // hoenn encounter slots
 pokemon SPECIES_UNOWN
