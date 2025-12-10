@@ -2109,8 +2109,8 @@ pokemon SPECIES_MORELULL
 pokemon SPECIES_LECHONK
 pokemon SPECIES_PHANTUMP
 pokemon SPECIES_PHANTUMP
-pokemon SPECIES_ROWLETT
-pokemon SPECIES_ROWLETT
+pokemon SPECIES_ROWLET
+pokemon SPECIES_ROWLET
 
 // day encounter slots
 pokemon SPECIES_SPINARAK
@@ -2123,8 +2123,8 @@ pokemon SPECIES_MORELULL
 pokemon SPECIES_LECHONK
 pokemon SPECIES_PHANTUMP
 pokemon SPECIES_PHANTUMP
-pokemon SPECIES_ROWLETT
-pokemon SPECIES_ROWLETT
+pokemon SPECIES_ROWLET
+pokemon SPECIES_ROWLET
 
 // night encounter slots
 pokemon SPECIES_SPINARAK
@@ -2137,8 +2137,8 @@ pokemon SPECIES_MORELULL
 pokemon SPECIES_LECHONK
 pokemon SPECIES_PHANTUMP
 pokemon SPECIES_PHANTUMP
-pokemon SPECIES_ROWLETT
-pokemon SPECIES_ROWLETT
+pokemon SPECIES_ROWLET
+pokemon SPECIES_ROWLET
 
 // hoenn encounter slots
 pokemon SPECIES_SPOINK
@@ -2153,7 +2153,7 @@ encounter SPECIES_SURSKIT, 10, 20
 encounter SPECIES_POLIWAG, 5, 15
 encounter SPECIES_PHANTUMP, 10, 20
 encounter SPECIES_POLIWAG, 10, 20
-encounter SPECIES_ROWLETT, 10, 20
+encounter SPECIES_ROWLET, 10, 20
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
