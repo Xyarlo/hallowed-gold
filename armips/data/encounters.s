@@ -7091,8 +7091,8 @@ superrodrate 0
 walklevels 3, 4, 2, 3, 4, 2, 3, 4, 3, 4, 2, 3
 
 // morning encounter slots
-pokemon SPECIES_TAILLOW
-pokemon SPECIES_TAILLOW
+pokemon SPECIES_MURKROW
+pokemon SPECIES_MURKROW
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
