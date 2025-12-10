@@ -2304,49 +2304,49 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 12, 12, 12, 12, 14, 14, 10, 10, 14, 10, 14, 12
+walklevels 12, 13, 12, 13, 12, 13, 14, 14, 12, 13, 8, 9
 
 // morning encounter slots
-pokemon SPECIES_NIDORAN_M
-pokemon SPECIES_NIDORAN_F
-pokemon SPECIES_NIDORAN_M
-pokemon SPECIES_NIDORAN_F
-pokemon SPECIES_DROWZEE
-pokemon SPECIES_DROWZEE
-pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
 pokemon SPECIES_PIDGEY
-pokemon SPECIES_DITTO
 pokemon SPECIES_PIDGEY
-pokemon SPECIES_YANMA
+pokemon SPECIES_GROWLITHE
+pokemon SPECIES_GROWLITHE
+pokemon SPECIES_YAMPER
+pokemon SPECIES_YAMPER
+pokemon SPECIES_GROWLITHE
+pokemon SPECIES_YAMPER
+pokemon SPECIES_JIGGLYPUFF
+pokemon SPECIES_JIGGLYPUFF
+pokemon SPECIES_CUTIEFLY
+pokemon SPECIES_CUTIEFLY
 
 // day encounter slots
-pokemon SPECIES_NIDORAN_M
-pokemon SPECIES_NIDORAN_F
-pokemon SPECIES_NIDORAN_M
-pokemon SPECIES_NIDORAN_F
-pokemon SPECIES_DROWZEE
-pokemon SPECIES_DROWZEE
-pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
 pokemon SPECIES_PIDGEY
-pokemon SPECIES_DITTO
 pokemon SPECIES_PIDGEY
-pokemon SPECIES_YANMA
+pokemon SPECIES_GROWLITHE
+pokemon SPECIES_GROWLITHE
+pokemon SPECIES_YAMPER
+pokemon SPECIES_YAMPER
+pokemon SPECIES_GROWLITHE
+pokemon SPECIES_YAMPER
+pokemon SPECIES_JIGGLYPUFF
+pokemon SPECIES_JIGGLYPUFF
+pokemon SPECIES_CUTIEFLY
+pokemon SPECIES_CUTIEFLY
 
 // night encounter slots
-pokemon SPECIES_NIDORAN_M
-pokemon SPECIES_NIDORAN_F
-pokemon SPECIES_NIDORAN_M
-pokemon SPECIES_NIDORAN_F
-pokemon SPECIES_DROWZEE
-pokemon SPECIES_DROWZEE
-pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_DITTO
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_YANMA
+pokemon SPECIES_PIDGEY
+pokemon SPECIES_PIDGEY
+pokemon SPECIES_GROWLITHE
+pokemon SPECIES_GROWLITHE
+pokemon SPECIES_YAMPER
+pokemon SPECIES_YAMPER
+pokemon SPECIES_GROWLITHE
+pokemon SPECIES_YAMPER
+pokemon SPECIES_JIGGLYPUFF
+pokemon SPECIES_JIGGLYPUFF
+pokemon SPECIES_CUTIEFLY
+pokemon SPECIES_CUTIEFLY
 
 // hoenn encounter slots
 pokemon SPECIES_WHISMUR
@@ -2357,36 +2357,36 @@ pokemon SPECIES_BUIZEL
 pokemon SPECIES_BIDOOF
 
 // surf encounters
-encounter SPECIES_PSYDUCK, 15, 25
-encounter SPECIES_PSYDUCK, 10, 20
-encounter SPECIES_GOLDUCK, 15, 25
-encounter SPECIES_GOLDUCK, 15, 25
-encounter SPECIES_GOLDUCK, 31, 31
+encounter SPECIES_DUCKLETT, 15, 25
+encounter SPECIES_LOTAD, 10, 20
+encounter SPECIES_SWANNA, 20, 25
+encounter SPECIES_LOMBRE, 20, 25
+encounter SPECIES_SQUIRTLE, 31, 31
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // old rod encounters
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_POLIWAG, 10, 10
-encounter SPECIES_POLIWAG, 10, 10
+encounter SPECIES_GOLDEEN, 10, 10
+encounter SPECIES_GOLDEEN, 10, 10
+encounter SPECIES_GOLDEEN, 10, 10
+encounter SPECIES_MARILL, 10, 10
+encounter SPECIES_MARILL, 10, 10
 
 // good rod encounters
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
+encounter SPECIES_GOLDEEN, 20, 20
+encounter SPECIES_SEAKING, 20, 20
+encounter SPECIES_MARILL, 20, 20
+encounter SPECIES_MARILL, 20, 20
+encounter SPECIES_MARILL, 20, 20
 
 // super rod encounters
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_SEAKING, 40, 40
+encounter SPECIES_MARILL, 40, 40
+encounter SPECIES_AZUMARILL, 40, 40
+encounter SPECIES_AZUMARILL, 40, 40
+encounter SPECIES_SQUIRTLE, 40, 40
 
 // swarm grass
 pokemon SPECIES_YANMA
