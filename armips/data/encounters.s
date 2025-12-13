@@ -2928,49 +2928,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 13, 14, 13, 14, 15, 15, 14, 14, 16, 15, 16, 15
+walklevels 14, 15, 15, 16, 17, 15, 16, 17, 16, 17, 16, 17
 
 // morning encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
 pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATICATE
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATICATE
+monwithform SPECIES_GROWLITHE, 1
+monwithform SPECIES_GROWLITHE, 1
+monwithform SPECIES_GROWLITHE, 1
+pokemon SPECIES_LITWICK
+pokemon SPECIES_LITWICK
+pokemon SPECIES_LITWICK
+pokemon SPECIES_GASTLY
+pokemon SPECIES_GASTLY
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
 
 // day encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
 pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATICATE
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATICATE
+monwithform SPECIES_GROWLITHE, 1
+monwithform SPECIES_GROWLITHE, 1
+monwithform SPECIES_GROWLITHE, 1
+pokemon SPECIES_LITWICK
+pokemon SPECIES_LITWICK
+pokemon SPECIES_LITWICK
+pokemon SPECIES_GASTLY
+pokemon SPECIES_GASTLY
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
 
 // night encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
 pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATICATE
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATICATE
+monwithform SPECIES_GROWLITHE, 1
+monwithform SPECIES_GROWLITHE, 1
+monwithform SPECIES_GROWLITHE, 1
+pokemon SPECIES_LITWICK
+pokemon SPECIES_LITWICK
+pokemon SPECIES_LITWICK
+pokemon SPECIES_GASTLY
+pokemon SPECIES_GASTLY
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
 
 // hoenn encounter slots
 pokemon SPECIES_ZIGZAGOON
@@ -3032,49 +3032,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 14, 14, 14, 14, 16, 16, 16, 16, 15, 14, 15, 14
+walklevels 16, 17, 15, 16, 17, 15, 16, 17, 16, 17, 16, 17
 
 // morning encounter slots
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_KOFFING
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
+monwithform SPECIES_GROWLITHE, 1
+monwithform SPECIES_GROWLITHE, 1
+pokemon SPECIES_LITWICK
+pokemon SPECIES_LITWICK
+pokemon SPECIES_LITWICK
+pokemon SPECIES_GASTLY
+pokemon SPECIES_GASTLY
+pokemon SPECIES_GASTLY
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
 
 // day encounter slots
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_KOFFING
-pokemon SPECIES_KOFFING
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_RATTATA
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
+monwithform SPECIES_GROWLITHE, 1
+pokemon SPECIES_LITWICK
+pokemon SPECIES_LITWICK
+pokemon SPECIES_LITWICK
+pokemon SPECIES_GASTLY
+pokemon SPECIES_GASTLY
+pokemon SPECIES_GASTLY
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
 
 // night encounter slots
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_KOFFING
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
+monwithform SPECIES_GROWLITHE, 1
+monwithform SPECIES_GROWLITHE, 1
+pokemon SPECIES_LITWICK
+pokemon SPECIES_LITWICK
+pokemon SPECIES_LITWICK
+pokemon SPECIES_GASTLY
+pokemon SPECIES_GASTLY
+pokemon SPECIES_GASTLY
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
 
 // hoenn encounter slots
 pokemon SPECIES_ZIGZAGOON
