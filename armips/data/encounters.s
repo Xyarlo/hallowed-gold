@@ -653,8 +653,8 @@ pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHINGLING
 pokemon SPECIES_LITWICK
 pokemon SPECIES_LITWICK
-pokemon SPECIES_MIMIKYU
-pokemon SPECIES_MIMIKYU
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
 
 // day encounter slots
 pokemon SPECIES_RATTATA
@@ -667,8 +667,8 @@ pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHINGLING
 pokemon SPECIES_LITWICK
 pokemon SPECIES_LITWICK
-pokemon SPECIES_MIMIKYU
-pokemon SPECIES_MIMIKYU
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
 
 // night encounter slots
 pokemon SPECIES_RATTATA
@@ -681,8 +681,8 @@ pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHINGLING
 pokemon SPECIES_LITWICK
 pokemon SPECIES_LITWICK
-pokemon SPECIES_MIMIKYU
-pokemon SPECIES_MIMIKYU
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
 
 // hoenn encounter slots
 pokemon SPECIES_ZIGZAGOON
@@ -744,9 +744,10 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 5, 6, 4, 5, 6, 4, 5, 6, 5, 4, 6, 5
+walklevels 5, 5, 6, 4, 5, 6, 4, 5, 5, 6, 5, 6
 
 // morning encounter slots
+pokemon SPECIES_RATTATA
 pokemon SPECIES_GASTLY
 pokemon SPECIES_GASTLY
 pokemon SPECIES_CHINGLING
@@ -756,11 +757,11 @@ pokemon SPECIES_LITWICK
 pokemon SPECIES_LITWICK
 pokemon SPECIES_LITWICK
 pokemon SPECIES_LITWICK
-pokemon SPECIES_MIMIKYU
-pokemon SPECIES_LITWICK
-pokemon SPECIES_MIMIKYU
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
 
 // day encounter slots
+pokemon SPECIES_RATTATA
 pokemon SPECIES_GASTLY
 pokemon SPECIES_GASTLY
 pokemon SPECIES_CHINGLING
@@ -770,11 +771,11 @@ pokemon SPECIES_LITWICK
 pokemon SPECIES_LITWICK
 pokemon SPECIES_LITWICK
 pokemon SPECIES_LITWICK
-pokemon SPECIES_MIMIKYU
-pokemon SPECIES_LITWICK
-pokemon SPECIES_MIMIKYU
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
 
 // night encounter slots
+pokemon SPECIES_RATTATA
 pokemon SPECIES_GASTLY
 pokemon SPECIES_GASTLY
 pokemon SPECIES_CHINGLING
@@ -784,9 +785,8 @@ pokemon SPECIES_LITWICK
 pokemon SPECIES_LITWICK
 pokemon SPECIES_LITWICK
 pokemon SPECIES_LITWICK
-pokemon SPECIES_MIMIKYU
-pokemon SPECIES_LITWICK
-pokemon SPECIES_MIMIKYU
+pokemon SPECIES_ZORUA
+pokemon SPECIES_ZORUA
 
 // hoenn encounter slots
 pokemon SPECIES_ZIGZAGOON
