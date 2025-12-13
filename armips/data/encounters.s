@@ -2304,7 +2304,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 12, 13, 12, 13, 12, 13, 14, 14, 12, 13, 8, 9
+walklevels 12, 13, 12, 13, 13, 13, 14, 12, 13, 14, 12, 13
 
 // morning encounter slots
 pokemon SPECIES_PIDGEY
@@ -2408,7 +2408,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 10, 10, 10, 10, 12, 12, 12, 12, 10, 14, 10, 14
+walklevels 12, 12, 13, 13, 12, 13, 12, 13, 12, 13, 12, 13
 
 // morning encounter slots
 pokemon SPECIES_FLABEBE
@@ -2616,7 +2616,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 14, 15, 12, 13, 12, 13, 14, 14, 12, 12, 13, 13
+walklevels 14, 15, 13, 14, 15, 13, 14, 14, 13, 14, 13, 14
 
 // morning encounter slots
 pokemon SPECIES_PIDGEY
