@@ -9403,7 +9403,7 @@
       "MOVE_ZEN_HEADBUTT"
     ],
     "EggMoves": [
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_CONFUSE_RAY",
       "MOVE_CROSS_CHOP",
       "MOVE_HYPNOSIS",
@@ -9628,7 +9628,7 @@
       "MOVE_ZEN_HEADBUTT"
     ],
     "EggMoves": [
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_CONFUSE_RAY",
       "MOVE_CROSS_CHOP",
       "MOVE_HYPNOSIS",
@@ -12219,7 +12219,7 @@
       "MOVE_WEATHER_BALL"
     ],
     "EggMoves": [
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_INGRAIN",
       "MOVE_STRENGTH_SAP",
       "MOVE_SUCKER_PUNCH",
@@ -12370,7 +12370,7 @@
       "MOVE_WEATHER_BALL"
     ],
     "EggMoves": [
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_INGRAIN",
       "MOVE_STRENGTH_SAP",
       "MOVE_SUCKER_PUNCH",
@@ -12533,7 +12533,7 @@
       "MOVE_WEATHER_BALL"
     ],
     "EggMoves": [
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_INGRAIN",
       "MOVE_STRENGTH_SAP",
       "MOVE_SUCKER_PUNCH",
@@ -16221,7 +16221,7 @@
     ],
     "EggMoves": [
       "MOVE_ASTONISH",
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_DISABLE",
       "MOVE_HAZE",
       "MOVE_PERISH_SONG",
@@ -16425,7 +16425,7 @@
     ],
     "EggMoves": [
       "MOVE_ASTONISH",
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_DISABLE",
       "MOVE_HAZE",
       "MOVE_PERISH_SONG",
@@ -16659,7 +16659,7 @@
     ],
     "EggMoves": [
       "MOVE_ASTONISH",
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_DISABLE",
       "MOVE_HAZE",
       "MOVE_PERISH_SONG",
@@ -19338,7 +19338,7 @@
       },
       {
         "Level": 12,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 16,
@@ -19502,7 +19502,7 @@
       },
       {
         "Level": 12,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 16,
@@ -20848,7 +20848,7 @@
       "MOVE_AURORA_BEAM",
       "MOVE_SPLASH",
       "MOVE_FLAIL",
-      "MOVE_CLEAR_SMOG"
+      "MOVE_SPLASH"
     ],
     "TutorMoves": [
       "MOVE_BOUNCE",
@@ -20994,7 +20994,7 @@
     ],
     "EggMoves": [
       "MOVE_AURORA_BEAM",
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_DISABLE",
       "MOVE_DRAGON_BREATH",
       "MOVE_FLAIL",
@@ -22475,7 +22475,7 @@
       },
       {
         "Level": 12,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 16,
@@ -39329,7 +39329,7 @@
       },
       {
         "Level": 20,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 22,
@@ -39492,7 +39492,7 @@
       },
       {
         "Level": 20,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 22,
@@ -41375,7 +41375,7 @@
     ],
     "EggMoves": [
       "MOVE_AURORA_BEAM",
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_DISABLE",
       "MOVE_DRAGON_BREATH",
       "MOVE_FLAIL",
@@ -42783,7 +42783,7 @@
       },
       {
         "Level": 12,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 16,
@@ -56176,7 +56176,7 @@
     ],
     "EggMoves": [
       "MOVE_ACID_ARMOR",
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_CURSE",
       "MOVE_DESTINY_BOND",
       "MOVE_MUD_SLAP",
@@ -56353,7 +56353,7 @@
     ],
     "EggMoves": [
       "MOVE_ACID_ARMOR",
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_CURSE",
       "MOVE_DESTINY_BOND",
       "MOVE_MUD_SLAP",
@@ -56820,7 +56820,7 @@
     "EggMoves": [
       "MOVE_AQUA_RING",
       "MOVE_BODY_SLAM",
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_CURSE",
       "MOVE_DEFENSE_CURL",
       "MOVE_DOUBLE_EDGE",
@@ -56986,7 +56986,7 @@
     "EggMoves": [
       "MOVE_AQUA_RING",
       "MOVE_BODY_SLAM",
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_CURSE",
       "MOVE_DEFENSE_CURL",
       "MOVE_DOUBLE_EDGE",
@@ -57394,7 +57394,7 @@
       },
       {
         "Level": 16,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 20,
@@ -62247,7 +62247,7 @@
     ],
     "EggMoves": [
       "MOVE_AMNESIA",
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_COSMIC_POWER",
       "MOVE_DISABLE",
       "MOVE_FUTURE_SIGHT",
@@ -73595,7 +73595,7 @@
     ],
     "EggMoves": [
       "MOVE_ACID_ARMOR",
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_COUNTER",
       "MOVE_CURSE",
       "MOVE_MIRROR_COAT",
@@ -73742,7 +73742,7 @@
     ],
     "EggMoves": [
       "MOVE_ACID_ARMOR",
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_COUNTER",
       "MOVE_CURSE",
       "MOVE_MIRROR_COAT",
@@ -74108,7 +74108,7 @@
       "MOVE_WILL_O_WISP"
     ],
     "EggMoves": [
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_DEFOG",
       "MOVE_DISABLE",
       "MOVE_HAZE",
@@ -74301,7 +74301,7 @@
       "MOVE_WILL_O_WISP"
     ],
     "EggMoves": [
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_DEFOG",
       "MOVE_DISABLE",
       "MOVE_HAZE",
@@ -80858,7 +80858,7 @@
       },
       {
         "Level": 12,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 16,
@@ -98024,7 +98024,7 @@
       },
       {
         "Level": 12,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 15,
@@ -98163,7 +98163,7 @@
       },
       {
         "Level": 12,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 15,
@@ -101236,7 +101236,7 @@
       },
       {
         "Level": 20,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 24,
@@ -101352,7 +101352,7 @@
       },
       {
         "Level": 20,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 24,
@@ -103482,7 +103482,7 @@
     ],
     "EggMoves": [
       "MOVE_ACID_ARMOR",
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_HAZE",
       "MOVE_POWER_SPLIT"
     ],
@@ -103633,7 +103633,7 @@
     ],
     "EggMoves": [
       "MOVE_ACID_ARMOR",
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_HAZE",
       "MOVE_POWER_SPLIT"
     ],
@@ -103787,7 +103787,7 @@
     ],
     "EggMoves": [
       "MOVE_ACID_ARMOR",
-      "MOVE_CLEAR_SMOG",
+      "MOVE_SPLASH",
       "MOVE_HAZE",
       "MOVE_POWER_SPLIT"
     ],
@@ -132168,7 +132168,7 @@
       },
       {
         "Level": 20,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 25,
@@ -136135,7 +136135,7 @@
       "MOVE_RECYCLE",
       "MOVE_ASSURANCE",
       "MOVE_SHADOW_SNEAK",
-      "MOVE_CLEAR_SMOG"
+      "MOVE_SPLASH"
     ],
     "TutorMoves": [
       "MOVE_FIRE_PUNCH",
@@ -136309,7 +136309,7 @@
       "MOVE_RECYCLE",
       "MOVE_ASSURANCE",
       "MOVE_SHADOW_SNEAK",
-      "MOVE_CLEAR_SMOG"
+      "MOVE_SPLASH"
     ],
     "TutorMoves": [
       "MOVE_BLOCK",
@@ -148620,7 +148620,7 @@
       },
       {
         "Level": 12,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 16,
@@ -158300,7 +158300,7 @@
       },
       {
         "Level": 8,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 12,
@@ -158385,7 +158385,7 @@
       },
       {
         "Level": 8,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 12,
@@ -158541,7 +158541,7 @@
       },
       {
         "Level": 8,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 12,
@@ -164211,7 +164211,7 @@
       },
       {
         "Level": 28,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 35,
@@ -167632,7 +167632,7 @@
       },
       {
         "Level": 24,
-        "Move": "MOVE_CLEAR_SMOG"
+        "Move": "MOVE_SPLASH"
       },
       {
         "Level": 32,
